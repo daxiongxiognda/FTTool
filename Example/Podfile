@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FTTool_Tests' do
+  pod 'FTTool', :path => '../'
+  
+  
+end
