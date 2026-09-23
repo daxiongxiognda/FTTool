@@ -2,7 +2,7 @@
 //  Global.swift
 //  FTTool
 //
-//  Created by qqq on 2026/8/31.
+//  Created by 熊坤鹏 on 2026/8/31.
 //
 
 // MARK: - 命名空间，普通类型
